@@ -1,0 +1,4 @@
+g++ token.c -o tok
+./tok input_string #this will create temp.txt and display the symtab on the console
+g++ assgn5.cpp
+./a.out

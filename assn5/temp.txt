@@ -1,0 +1,7 @@
+main ( ) 
+{ 
+int identifiers ; 
+for ( identifiers = numbers ; identifiers < numbers ; identifiers = identifiers ) 
+{ 
+} 
+} 

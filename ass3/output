@@ -1,0 +1,10 @@
+First[S]:   { i }
+First[S]:   { }
+First[V]:   { i }
+First[E]:   { n }
+First[E]:   { i  , n }
+Follow[S]:   { $ }
+Follow[S]:   { }
+Follow[V]:   { a }
+Follow[E]:   { }
+Follow[E]:   { }
